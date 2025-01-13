@@ -1,4 +1,4 @@
-//bus queue problem
+//bus queue problems
 import java.util.*;
 class HelloWorld {
     public static void main(String[] args) {
