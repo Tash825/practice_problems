@@ -1,3 +1,4 @@
+//zombie game
 import java.util.*;
 class Zombie_game {
     public static void main(String[] args) {
